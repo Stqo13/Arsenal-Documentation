@@ -1,0 +1,10 @@
+--10.02--
+
+(1) SMTP email sending implemented with credential settings set up and method for sending the email implemented. When users have their role requests either accepted or declined they receive the appropriate message in an email
+
+(2) Filtration based on spheres. Started implementation of the filtration for the job offers.
+
+
+--11.02--
+
+(1) Implementation of the filtration for the job offer completed.

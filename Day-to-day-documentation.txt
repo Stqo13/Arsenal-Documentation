@@ -8,3 +8,6 @@
 --11.02--
 
 (1) Implementation of the filtration for the job offer completed.
+
+--25.02--
+(1) Implemented the Google maps API to generate coordinates when users create new job offers based on the location of the course
